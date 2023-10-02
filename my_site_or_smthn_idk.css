@@ -1,0 +1,9 @@
+.body{
+    background-color: darkgray;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 5vw;
+  height: 5vw;
+}
